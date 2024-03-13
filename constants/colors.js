@@ -1,10 +1,10 @@
 const COLORS = {
     white: "#FFFFFF",
     black: "#222222",
-    primary: "#EFC883",
-    secondary: "#697579",
-    bone: "#E2D8C8",
-    oldLace: "#FCF4E7"
+    primary: "#03045E",
+    secondary: "#023E8A",
+    bone: "#90E0EF",
+    oldLace: "#CAF0F8"
 }
 
 export default COLORS;
